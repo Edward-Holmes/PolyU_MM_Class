@@ -1,1 +1,1 @@
-# PolyU_MM_Class
+# PolyU MM Class
